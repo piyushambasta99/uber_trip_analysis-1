@@ -1,4 +1,3 @@
-# uber_trip_analysis
 # Some of the conclusions that I got from this analysis are:
 
 # Most popular day for uber trips is monday
